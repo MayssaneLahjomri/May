@@ -1,8 +1,8 @@
 .banner {
-	background-image: url(../../images/rabat.jpg);
-	color: skyblue;
+	background-image: url(../../images/W.png);
+	color: black;
 	padding: 150px 0px;
-	background-size: cover;
+	background-size: contain;
 	background-position: center;
 }
 

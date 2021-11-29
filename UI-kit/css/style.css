@@ -7,16 +7,17 @@
 
 
 body {
-   font-family: 'Cinzel Decorative', cursive;
-   font-size: 22px;
+   font-family: 'system-ui', monospace;
+   font-size: 20px;
 }
 h1,h2,h3 {
-	font-family: 'Noto Sans Mono', monospace;
-	font-weight: bold;
+	font-family: 'system-ui', monospace;
+	font-weight: normal;
 }
 
 a {
 
-	text-decoration: none;
+	text-decoration: blink;
 	
 }
+
